@@ -1,0 +1,26 @@
+body {
+    overflow-x: hidden;
+    }
+    
+    .card-image-top {
+    width: 400px;
+    height: 400px;
+    object-fit: content;
+    }
+    
+    .card {
+    margin: 10% 50%;
+    width: 18rem;
+    }
+    
+    .card-text {
+    text-align: justify;
+    }
+    
+    .card-title {
+    text-align: center;
+    }
+    
+    .col-md-9 {
+    text-align: center
+    }
